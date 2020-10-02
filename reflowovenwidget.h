@@ -2,6 +2,9 @@
 #define REFLOWOVENWIDGET_H
 
 #include <QWidget>
+#include <QtCharts/QChartGlobal>
+
+QT_CHARTS_USE_NAMESPACE
 
 namespace Ui {
 class ReflowOvenWidget;
